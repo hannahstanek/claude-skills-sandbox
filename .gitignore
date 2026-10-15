@@ -1,0 +1,6 @@
+# claude.ai-managed skills (auto-synced, re-downloaded; not my work)
+synced/
+# Claude Code trash / scratch
+.trash/
+# macOS
+.DS_Store
