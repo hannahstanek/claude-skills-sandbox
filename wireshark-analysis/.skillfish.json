@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "wireshark-analysis",
+  "owner": "claudiodearaujo",
+  "repo": "izacenter",
+  "path": ".claude/skills/wireshark-analysis",
+  "branch": "main",
+  "sha": "0dfae56f9c871213b0f1357b0ebb557d0c3ac6ac",
+  "source": "manual"
+}
