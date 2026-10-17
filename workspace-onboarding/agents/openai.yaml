@@ -1,0 +1,4 @@
+interface:
+  display_name: "Workspace Onboarding"
+  short_description: "Tailor the toolkit to a repository safely"
+  default_prompt: "Use $workspace-onboarding to review the staged toolkit and repository context, resolve conflicts with me, and finish onboarding."
